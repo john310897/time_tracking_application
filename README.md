@@ -1,3 +1,16 @@
+Time tracking application
+
+-> additional packages used
+react-bootstrap
+@reduxjs/toolkit
+react-redux
+
+timer-> by default it starts with timer page where start pause and save functionalities have been implemented
+after saving of the task the modal closes and it can be accessed in tasks page
+tasks-> this can be accessed through the navigation the saved task will be accessed over here in the form of cards
+with the edit functionality for title and discription
+the saving of task and accessing in the list page is done through using redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
